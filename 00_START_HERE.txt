@@ -1,0 +1,21 @@
+CASE FILE: #404-OPSEC
+MISSION: Recover the stolen exam data.
+
+You have three evidence files:
+- traffic.pcapng
+- server_backup.tar
+- secure.zip
+
+PHASE 1 — NETWORK
+Use network tools to identify the attacker’s custom exploit tool.
+Look for unusual HTTP traffic. Most requests are noise.
+
+PHASE 2 — SERVER
+Search for sloppy admin artifacts and log entries.
+Confirm your findings.
+
+PHASE 3 — DECRYPT
+The Phantom is arrogant.
+The password for secure.zip is connected to their tool identity.
+
+Good luck, Agent.
